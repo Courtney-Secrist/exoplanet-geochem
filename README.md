@@ -7,7 +7,7 @@ Join NASA's TESS Object of Interest catalog to the Hypatia Catalog of stellar ab
 
 ## Status
 - [x] Phase 0 - repository setup
-- [ ] Phase 1 - TOI catalog
+- [x] Phase 1 - TOI catalog
 - [ ] Phase 2 - Hypatia catalog
 - [ ] Phase 3 - cross-match
 - [ ] Phase 4 - abundance ratios
