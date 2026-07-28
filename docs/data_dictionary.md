@@ -12,6 +12,7 @@ For where the data came from and when, see 'data/raw/PROVENANCE.md'.
 
 ### Gotchas - Hypatia 
 - Lodders09 solar values include Th (0.08) but not U. Uranium cannot be converted from dex to a linear ratio using this scale. Affects Phase 6 radiogenic index - need an alternative solar U value, or drop U and use Th + K only.
+- Resolved - Thats because there is no Uranium data :( 
 
 ### GET /data — two-axis behavior unconfirmed
 
