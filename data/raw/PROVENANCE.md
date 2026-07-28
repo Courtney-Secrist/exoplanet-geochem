@@ -28,3 +28,28 @@ Log of every download here: URL/query, date, catalog version, row count.
 
 #### Findings: (Add to paper)
 Of the elements relevant to assessing rocky planet habitability, iron, magnesium, and silicon are measured in over 10,000 Hypatia stars, while phosphorus is measured in 284, thorium in one, and uranium in none. The elements that govern biological viability and long-term geological activity are precisely those that remain unmeasured. (7/28/26)
+
+### Hypatia coverage of TOI hosts — 2026-07-28
+
+Random sample of 300 unique TIC hosts (seed 42) queried against
+/composition for Fe:
+
+- 23 of 300 matched = 7.7%
+- Projected: ~594 of 7,753 unique TOI hosts
+
+Magnitude comparison (TESS mag):
+- Matched:   n=23,  mean 10.88, range 7.58–14.33
+- Unmatched: n=277, mean 11.91, range 7.88–15.74
+
+Matched hosts are ~1 mag brighter on average, consistent with a
+brightness selection effect (high-resolution spectroscopy requires
+bright targets). Effect is modest and underpowered at n=23 —
+suggestive, not conclusive.
+
+Supporting evidence: the 284 P-measured stars carry Flamsteed
+designations (* 3 Psc, * 5 CVn, * 9 Dra), indicating a sample
+dominated by historically bright naked-eye stars, many of which are
+giants/subgiants rather than main-sequence planet hosts.
+
+LIMITATION: the matched sample is not representative of TOI hosts
+generally — it represents bright TOI hosts. Must be stated in paper.
