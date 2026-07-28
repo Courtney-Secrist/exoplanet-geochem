@@ -30,3 +30,7 @@ and star names needed for the coverage census.
 
 TODO: revisit if two-element joint coverage counts are needed.
 Do NOT assume yaxis1 works until verified.
+
+/composition returns different object shapes for matched vs
+unmatched stars. Unmatched entries lack 'median_value' entirely
+(KeyError, not None). Always use .get() when parsing responses.
