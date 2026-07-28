@@ -25,3 +25,6 @@ Log of every download here: URL/query, date, catalog version, row count.
 - API: https://hypatiacatalog.com/hypatia/api/v2/
 - Solar normalization: lodders09 (Lodders et al. 2009), API default
 - Retrieved: (7/28/26)
+
+#### Findings: (Add to paper)
+Of the elements relevant to assessing rocky planet habitability, iron, magnesium, and silicon are measured in over 10,000 Hypatia stars, while phosphorus is measured in 284, thorium in one, and uranium in none. The elements that govern biological viability and long-term geological activity are precisely those that remain unmeasured.
