@@ -20,3 +20,8 @@ Log of every download here: URL/query, date, catalog version, row count.
  - APC - 483 Ambiguous Planet Candidate
  - FA - 100 False Alarm
  - NaN - 3 No disposition assigned 
+
+### Hypatia Catalog
+- API: https://hypatiacatalog.com/hypatia/api/v2/
+- Solar normalization: lodders09 (Lodders et al. 2009), API default
+- Retrieved: (7/28/26)
