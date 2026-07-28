@@ -11,3 +11,12 @@ Log of every download here: URL/query, date, catalog version, row count.
 - Rows: (8064)
 - Columns: (91)
 - File: data/raw/toi_20260727.csv
+
+ #### Disposition breakdown as of: (7/27/26)
+ - PC - 4898 Planet Candidate
+ - FP - 1247 False Positive
+ - CP - 740 Confirmed Planet
+ - KP - 593 Known Planet
+ - APC - 483 Ambiguous Planet Candidate
+ - FA - 100 False Alarm
+ - NaN - 3 No disposition assigned 
